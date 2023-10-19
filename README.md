@@ -19,5 +19,3 @@ Function senpai(){
 
 [link to the photo](https://i.pinimg.com/474x/39/5c/72/395c72ac14d97a65f91bc5e8196b5904.jpg)
 
-git config --global user.email "frizislp@gmail.com"
-  git config --global user.name "kysBowtie"
